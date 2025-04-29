@@ -73,8 +73,6 @@ example_find_value,example_update_value
 - Ensure your `.env` file is correctly configured before running the script.
 - The script uses the `requests` library for API calls and `jmespath` for JSON parsing.
 
-If you have any questions or need assistance, feel free to reach out to the project team. We're here to help!
-
 ---
 
 Thank you for using the Mass Update Script. We hope it simplifies your data management tasks!
